@@ -1,0 +1,1202 @@
+[
+  {
+    "rank": 1,
+    "title": "Anti-Hero",
+    "artist": "Taylor Swift",
+    "cover": "https://charts-static.billboard.com/img/2022/10/taylor-swift-824-antihero-fgo-180x180.jpg",
+    "position": {
+      "positionLastWeek": 1,
+      "peakPosition": 1,
+      "weeksOnChart": 2
+    },
+    "length": 200
+  },
+  {
+    "rank": 2,
+    "title": "Lift Me Up",
+    "artist": "Rihanna",
+    "cover": "https://charts-static.billboard.com/img/2022/11/rihanna-k0p-liftmeup-5gp-180x180.jpg",
+    "position": {
+      "positionLastWeek": null,
+      "peakPosition": 2,
+      "weeksOnChart": 1
+    },
+    "length": 196
+  },
+  {
+    "rank": 3,
+    "title": "Unholy",
+    "artist": "Sam Smith & Kim Petras",
+    "cover": "https://charts-static.billboard.com/img/2022/10/sam-smith-0od-unholy-7a7-180x180.jpg",
+    "position": {
+      "positionLastWeek": 11,
+      "peakPosition": 1,
+      "weeksOnChart": 6
+    },
+    "length": 156
+  },
+  {
+    "rank": 4,
+    "title": "Bad Habit",
+    "artist": "Steve Lacy",
+    "cover": "https://charts-static.billboard.com/img/2022/07/steve-lacy-d2o-badhabit-l6b-180x180.jpg",
+    "position": {
+      "positionLastWeek": 12,
+      "peakPosition": 1,
+      "weeksOnChart": 18
+    },
+    "length": 232
+  },
+  {
+    "rank": 5,
+    "title": "As It Was",
+    "artist": "Harry Styles",
+    "cover": "https://charts-static.billboard.com/img/2022/04/harry-styles-6jk-asitwas-po3-180x180.jpg",
+    "position": {
+      "positionLastWeek": 16,
+      "peakPosition": 1,
+      "weeksOnChart": 31
+    },
+    "length": 167
+  },
+  {
+    "rank": 6,
+    "title": "Lavender Haze",
+    "artist": "Taylor Swift",
+    "cover": "https://charts-static.billboard.com/img/2006/07/taylor-swift-824-180x180.jpg",
+    "position": {
+      "positionLastWeek": 2,
+      "peakPosition": 2,
+      "weeksOnChart": 2
+    },
+    "length": 202
+  },
+  {
+    "rank": 7,
+    "title": "Midnight Rain",
+    "artist": "Taylor Swift",
+    "cover": "https://charts-static.billboard.com/img/2006/07/taylor-swift-824-180x180.jpg",
+    "position": {
+      "positionLastWeek": 5,
+      "peakPosition": 5,
+      "weeksOnChart": 2
+    },
+    "length": 174
+  },
+  {
+    "rank": 8,
+    "title": "I Like You (A Happier Song)",
+    "artist": "Post Malone Featuring Doja Cat",
+    "cover": "https://charts-static.billboard.com/img/2015/06/post-malone-8b5-180x180.jpg",
+    "position": {
+      "positionLastWeek": 17,
+      "peakPosition": 3,
+      "weeksOnChart": 22
+    },
+    "length": 192
+  },
+  {
+    "rank": 9,
+    "title": "Bejeweled",
+    "artist": "Taylor Swift",
+    "cover": "https://charts-static.billboard.com/img/2022/10/taylor-swift-824-bejeweled-as9-180x180.jpg",
+    "position": {
+      "positionLastWeek": 6,
+      "peakPosition": 6,
+      "weeksOnChart": 2
+    },
+    "length": 194
+  },
+  {
+    "rank": 10,
+    "title": "Super Freaky Girl",
+    "artist": "Nicki Minaj",
+    "cover": "https://charts-static.billboard.com/img/2022/08/nicki-minaj-721-superfreakygirl-wpa-180x180.jpg",
+    "position": {
+      "positionLastWeek": 22,
+      "peakPosition": 1,
+      "weeksOnChart": 12
+    },
+    "length": 170
+  },
+  {
+    "rank": 11,
+    "title": "Shirt",
+    "artist": "SZA",
+    "cover": "https://charts-static.billboard.com/img/2022/11/sza-mhq-shirt-e9d-180x180.jpg",
+    "position": {
+      "positionLastWeek": null,
+      "peakPosition": 11,
+      "weeksOnChart": 1
+    },
+    "length": 181
+  },
+  {
+    "rank": 12,
+    "title": "Maroon",
+    "artist": "Taylor Swift",
+    "cover": "https://charts-static.billboard.com/img/2006/07/taylor-swift-824-180x180.jpg",
+    "position": {
+      "positionLastWeek": 3,
+      "peakPosition": 3,
+      "weeksOnChart": 2
+    },
+    "length": 218
+  },
+  {
+    "rank": 13,
+    "title": "I Ain't Worried",
+    "artist": "OneRepublic",
+    "cover": "https://charts-static.billboard.com/img/2022/06/onerepublic-m2z-i-aint-worried-p2t-180x180.jpg",
+    "position": {
+      "positionLastWeek": 18,
+      "peakPosition": 6,
+      "weeksOnChart": 21
+    },
+    "length": 148
+  },
+  {
+    "rank": 14,
+    "title": "You Proof",
+    "artist": "Morgan Wallen",
+    "cover": "https://charts-static.billboard.com/img/2022/05/morgan-wallen-nlu-you-proof-uu4-180x180.jpg",
+    "position": {
+      "positionLastWeek": 19,
+      "peakPosition": 5,
+      "weeksOnChart": 25
+    },
+    "length": 157
+  },
+  {
+    "rank": 15,
+    "title": "I'm Good (Blue)",
+    "artist": "David Guetta & Bebe Rexha",
+    "cover": "https://charts-static.billboard.com/img/2022/09/david-guetta-ruw-imgoodblue-d17-180x180.jpg",
+    "position": {
+      "positionLastWeek": 24,
+      "peakPosition": 14,
+      "weeksOnChart": 10
+    },
+    "length": 175
+  },
+  {
+    "rank": 16,
+    "title": "Snow On The Beach",
+    "artist": "Taylor Swift Featuring Lana Del Rey",
+    "cover": "https://charts-static.billboard.com/img/2006/07/taylor-swift-824-180x180.jpg",
+    "position": {
+      "positionLastWeek": 4,
+      "peakPosition": 4,
+      "weeksOnChart": 2
+    },
+    "length": 256
+  },
+  {
+    "rank": 17,
+    "title": "Karma",
+    "artist": "Taylor Swift",
+    "cover": "https://charts-static.billboard.com/img/2006/07/taylor-swift-824-180x180.jpg",
+    "position": {
+      "positionLastWeek": 9,
+      "peakPosition": 9,
+      "weeksOnChart": 2
+    },
+    "length": 204
+  },
+  {
+    "rank": 18,
+    "title": "Vegas",
+    "artist": "Doja Cat",
+    "cover": "https://charts-static.billboard.com/img/2022/05/doja-cat-lm6-vegas-w90-180x180.jpg",
+    "position": {
+      "positionLastWeek": 27,
+      "peakPosition": 10,
+      "weeksOnChart": 22
+    },
+    "length": 202
+  },
+  {
+    "rank": 19,
+    "title": "Sunroof",
+    "artist": "Nicky Youre & dazy",
+    "cover": "https://charts-static.billboard.com/img/2022/02/nicky-youre-alv-sunroof-3kv-180x180.jpg",
+    "position": {
+      "positionLastWeek": 23,
+      "peakPosition": 4,
+      "weeksOnChart": 23
+    },
+    "length": 163
+  },
+  {
+    "rank": 20,
+    "title": "You're On Your Own, Kid",
+    "artist": "Taylor Swift",
+    "cover": "https://charts-static.billboard.com/img/2006/07/taylor-swift-824-180x180.jpg",
+    "position": {
+      "positionLastWeek": 8,
+      "peakPosition": 8,
+      "weeksOnChart": 2
+    },
+    "length": 194
+  },
+  {
+    "rank": 21,
+    "title": "Under The Influence",
+    "artist": "Chris Brown",
+    "cover": "https://charts-static.billboard.com/img/2005/07/chris-brown-94g-180x180.jpg",
+    "position": {
+      "positionLastWeek": 25,
+      "peakPosition": 21,
+      "weeksOnChart": 8
+    },
+    "length": 184
+  },
+  {
+    "rank": 22,
+    "title": "Wasted On You",
+    "artist": "Morgan Wallen",
+    "cover": "https://charts-static.billboard.com/img/2021/01/morgan-wallen-nlu-wasted-on-you-32x-180x180.jpg",
+    "position": {
+      "positionLastWeek": 29,
+      "peakPosition": 9,
+      "weeksOnChart": 51
+    },
+    "length": 178
+  },
+  {
+    "rank": 23,
+    "title": "In My Head",
+    "artist": "Juice WRLD",
+    "cover": "https://charts-static.billboard.com/img/2022/11/juice-wrld-as8-inmyhead-cff-180x180.jpg",
+    "position": {
+      "positionLastWeek": null,
+      "peakPosition": 23,
+      "weeksOnChart": 1
+    },
+    "length": 192
+  },
+  {
+    "rank": 24,
+    "title": "Vigilante Shit",
+    "artist": "Taylor Swift",
+    "cover": "https://charts-static.billboard.com/img/2006/07/taylor-swift-824-180x180.jpg",
+    "position": {
+      "positionLastWeek": 10,
+      "peakPosition": 10,
+      "weeksOnChart": 2
+    },
+    "length": 164
+  },
+  {
+    "rank": 25,
+    "title": "Jimmy Cooks",
+    "artist": "Drake Featuring 21 Savage",
+    "cover": "https://charts-static.billboard.com/img/2009/04/drake-04g-180x180.jpg",
+    "position": {
+      "positionLastWeek": 30,
+      "peakPosition": 1,
+      "weeksOnChart": 20
+    },
+    "length": 218
+  },
+  {
+    "rank": 26,
+    "title": "Thriller",
+    "artist": "Michael Jackson",
+    "cover": "https://charts-static.billboard.com/img/1984/02/michael-jackson-52j-thriller-pbs-180x180.jpg",
+    "position": {
+      "positionLastWeek": null,
+      "peakPosition": 4,
+      "weeksOnChart": 22
+    },
+    "length": 357
+  },
+  {
+    "rank": 27,
+    "title": "Die For You",
+    "artist": "The Weeknd",
+    "cover": "https://charts-static.billboard.com/img/2016/12/the-weeknd-xmx-dieforyou-eei-180x180.jpg",
+    "position": {
+      "positionLastWeek": 43,
+      "peakPosition": 27,
+      "weeksOnChart": 14
+    },
+    "length": 211
+  },
+  {
+    "rank": 28,
+    "title": "Wait For U",
+    "artist": "Future Featuring Drake & Tems",
+    "cover": "https://charts-static.billboard.com/img/1988/03/future-f8b-180x180.jpg",
+    "position": {
+      "positionLastWeek": 31,
+      "peakPosition": 1,
+      "weeksOnChart": 27
+    },
+    "length": 189
+  },
+  {
+    "rank": 29,
+    "title": "Something In The Orange",
+    "artist": "Zach Bryan",
+    "cover": "https://charts-static.billboard.com/img/2022/05/zach-bryan-cfd-something-in-the-orange-ynj-180x180.jpg",
+    "position": {
+      "positionLastWeek": 28,
+      "peakPosition": 12,
+      "weeksOnChart": 28
+    },
+    "length": 228
+  },
+  {
+    "rank": 30,
+    "title": "Titi Me Pregunto",
+    "artist": "Bad Bunny",
+    "cover": "https://charts-static.billboard.com/img/2016/10/bad-bunny-c3m-180x180.jpg",
+    "position": {
+      "positionLastWeek": 35,
+      "peakPosition": 5,
+      "weeksOnChart": 26
+    },
+    "length": 243
+  },
+  {
+    "rank": 31,
+    "title": "Cuff It",
+    "artist": "Beyonce",
+    "cover": "https://charts-static.billboard.com/img/2002/06/beyonce-0na-180x180.jpg",
+    "position": {
+      "positionLastWeek": 39,
+      "peakPosition": 13,
+      "weeksOnChart": 12
+    },
+    "length": 225
+  },
+  {
+    "rank": 32,
+    "title": "Question...?",
+    "artist": "Taylor Swift",
+    "cover": "https://charts-static.billboard.com/img/2022/10/taylor-swift-824-questionX-oxp-180x180.jpg",
+    "position": {
+      "positionLastWeek": 7,
+      "peakPosition": 7,
+      "weeksOnChart": 2
+    },
+    "length": 210
+  },
+  {
+    "rank": 33,
+    "title": "About Damn Time",
+    "artist": "Lizzo",
+    "cover": "https://charts-static.billboard.com/img/2022/04/lizzo-o9x-about-damn-time-f6q-180x180.jpg",
+    "position": {
+      "positionLastWeek": 36,
+      "peakPosition": 1,
+      "weeksOnChart": 29
+    },
+    "length": 191
+  },
+  {
+    "rank": 34,
+    "title": "Late Night Talking",
+    "artist": "Harry Styles",
+    "cover": "https://charts-static.billboard.com/img/2022/05/harry-styles-6jk-latenighttalking-fzv-180x180.jpg",
+    "position": {
+      "positionLastWeek": 38,
+      "peakPosition": 3,
+      "weeksOnChart": 24
+    },
+    "length": 177
+  },
+  {
+    "rank": 35,
+    "title": "Tomorrow 2",
+    "artist": "GloRilla & Cardi B",
+    "cover": "https://charts-static.billboard.com/img/2022/08/glorilla-000-tomorrow2-5ob-180x180.jpg",
+    "position": {
+      "positionLastWeek": 34,
+      "peakPosition": 9,
+      "weeksOnChart": 6
+    },
+    "length": 209
+  },
+  {
+    "rank": 36,
+    "title": "The Kind Of Love We Make",
+    "artist": "Luke Combs",
+    "cover": "https://charts-static.billboard.com/img/2022/06/luke-combs-9dm-the-kind-of-love-we-make-oo9-180x180.jpg",
+    "position": {
+      "positionLastWeek": 37,
+      "peakPosition": 8,
+      "weeksOnChart": 20
+    },
+    "length": 224
+  },
+  {
+    "rank": 37,
+    "title": "She Had Me At Heads Carolina",
+    "artist": "Cole Swindell",
+    "cover": "https://charts-static.billboard.com/img/2013/06/cole-swindell-2q7-180x180.jpg",
+    "position": {
+      "positionLastWeek": 40,
+      "peakPosition": 16,
+      "weeksOnChart": 23
+    },
+    "length": 206
+  },
+  {
+    "rank": 38,
+    "title": "Mastermind",
+    "artist": "Taylor Swift",
+    "cover": "https://charts-static.billboard.com/img/2006/07/taylor-swift-824-180x180.jpg",
+    "position": {
+      "positionLastWeek": 13,
+      "peakPosition": 13,
+      "weeksOnChart": 2
+    },
+    "length": 191
+  },
+  {
+    "rank": 39,
+    "title": "Unstoppable",
+    "artist": "Sia",
+    "cover": "https://charts-static.billboard.com/img/2006/01/sia-0sp-180x180.jpg",
+    "position": {
+      "positionLastWeek": 50,
+      "peakPosition": 28,
+      "weeksOnChart": 18
+    },
+    "length": 217
+  },
+  {
+    "rank": 40,
+    "title": "Hold Me Closer",
+    "artist": "Elton John & Britney Spears",
+    "cover": "https://charts-static.billboard.com/img/2022/09/elton-john-m6x-holdmecloser-952-180x180.jpg",
+    "position": {
+      "positionLastWeek": 47,
+      "peakPosition": 6,
+      "weeksOnChart": 10
+    },
+    "length": 202
+  },
+  {
+    "rank": 41,
+    "title": "Me Porto Bonito",
+    "artist": "Bad Bunny & Chencho Corleone",
+    "cover": "https://charts-static.billboard.com/img/2016/10/bad-bunny-c3m-180x180.jpg",
+    "position": {
+      "positionLastWeek": 42,
+      "peakPosition": 6,
+      "weeksOnChart": 26
+    },
+    "length": 178
+  },
+  {
+    "rank": 42,
+    "title": "Labyrinth",
+    "artist": "Taylor Swift",
+    "cover": "https://charts-static.billboard.com/img/2006/07/taylor-swift-824-180x180.jpg",
+    "position": {
+      "positionLastWeek": 14,
+      "peakPosition": 14,
+      "weeksOnChart": 2
+    },
+    "length": 247
+  },
+  {
+    "rank": 43,
+    "title": "Thank God",
+    "artist": "Kane Brown With Katelyn Brown",
+    "cover": "https://charts-static.billboard.com/img/2022/09/kane-brown-dqa-thankgod-qyu-180x180.jpg",
+    "position": {
+      "positionLastWeek": 51,
+      "peakPosition": 22,
+      "weeksOnChart": 8
+    },
+    "length": 174
+  },
+  {
+    "rank": 44,
+    "title": "5 Foot 9",
+    "artist": "Tyler Hubbard",
+    "cover": "https://charts-static.billboard.com/img/2022/05/tylerhubbard-lp0-5foot9-ngv-180x180.jpg",
+    "position": {
+      "positionLastWeek": 49,
+      "peakPosition": 22,
+      "weeksOnChart": 21
+    },
+    "length": 189
+  },
+  {
+    "rank": 45,
+    "title": "Sweet Nothing",
+    "artist": "Taylor Swift",
+    "cover": "https://charts-static.billboard.com/img/2006/07/taylor-swift-824-180x180.jpg",
+    "position": {
+      "positionLastWeek": 15,
+      "peakPosition": 15,
+      "weeksOnChart": 2
+    },
+    "length": 188
+  },
+  {
+    "rank": 46,
+    "title": "Golden Hour",
+    "artist": "JVKE",
+    "cover": "https://charts-static.billboard.com/img/2022/09/jvke-4lr-goldenhour-ig9-180x180.jpg",
+    "position": {
+      "positionLastWeek": 54,
+      "peakPosition": 46,
+      "weeksOnChart": 10
+    },
+    "length": 209
+  },
+  {
+    "rank": 47,
+    "title": "Monster Mash",
+    "artist": "Bobby \"Boris\" Pickett And The Crypt-Kickers",
+    "cover": "https://charts-static.billboard.com/img/1962/10/bobby-boris-pickett-and-the-crypt-kickers-000-monster-mash-mjg-180x180.jpg",
+    "position": {
+      "positionLastWeek": null,
+      "peakPosition": 1,
+      "weeksOnChart": 39
+    },
+    "length": 192
+  },
+  {
+    "rank": 48,
+    "title": "Just Wanna Rock",
+    "artist": "Lil Uzi Vert",
+    "cover": "https://charts-static.billboard.com/img/2022/10/lil-uzi-vert-g7z-justwannarock-uyx-180x180.jpg",
+    "position": {
+      "positionLastWeek": 48,
+      "peakPosition": 48,
+      "weeksOnChart": 3
+    },
+    "length": 123
+  },
+  {
+    "rank": 49,
+    "title": "Ghostbusters",
+    "artist": "Ray Parker Jr.",
+    "cover": "https://charts-static.billboard.com/img/1984/06/ray-parker-jr-000-ghostbusters-j8q-180x180.jpg",
+    "position": {
+      "positionLastWeek": null,
+      "peakPosition": 1,
+      "weeksOnChart": 23
+    },
+    "length": 245
+  },
+  {
+    "rank": 50,
+    "title": "Fall In Love",
+    "artist": "Bailey Zimmerman",
+    "cover": "https://charts-static.billboard.com/img/2022/02/baileyzimmerman-qt3-fallinlove-d5q-180x180.jpg",
+    "position": {
+      "positionLastWeek": 52,
+      "peakPosition": 29,
+      "weeksOnChart": 27
+    },
+    "length": 232
+  },
+  {
+    "rank": 51,
+    "title": "The Astronaut",
+    "artist": "JIN",
+    "cover": "https://charts-static.billboard.com/img/2022/11/jin-ly4-theastronaut-mdk-180x180.jpg",
+    "position": {
+      "positionLastWeek": null,
+      "peakPosition": 51,
+      "weeksOnChart": 1
+    },
+    "length": 282
+  },
+  {
+    "rank": 52,
+    "title": "Half Of Me",
+    "artist": "Thomas Rhett Featuring Riley Green",
+    "cover": "https://charts-static.billboard.com/img/2022/04/thomas-rhett-sl4-half-of-me-eyh-180x180.jpg",
+    "position": {
+      "positionLastWeek": 56,
+      "peakPosition": 52,
+      "weeksOnChart": 11
+    },
+    "length": 183
+  },
+  {
+    "rank": 53,
+    "title": "Until I Found You",
+    "artist": "Stephen Sanchez",
+    "cover": "https://charts-static.billboard.com/img/2022/03/stephensanchez-s9k-untilifoundyou-6xd-180x180.jpg",
+    "position": {
+      "positionLastWeek": 57,
+      "peakPosition": 38,
+      "weeksOnChart": 18
+    },
+    "length": 177
+  },
+  {
+    "rank": 54,
+    "title": "Rock And A Hard Place",
+    "artist": "Bailey Zimmerman",
+    "cover": "https://charts-static.billboard.com/img/2022/06/baileyzimmerman-qt3-rockandahardplace-vms-180x180.jpg",
+    "position": {
+      "positionLastWeek": 53,
+      "peakPosition": 24,
+      "weeksOnChart": 21
+    },
+    "length": 207
+  },
+  {
+    "rank": 55,
+    "title": "California Breeze",
+    "artist": "Lil Baby",
+    "cover": "https://charts-static.billboard.com/img/2017/11/lilbaby-kyx-180x180.jpg",
+    "position": {
+      "positionLastWeek": 44,
+      "peakPosition": 4,
+      "weeksOnChart": 3
+    },
+    "length": 177
+  },
+  {
+    "rank": 56,
+    "title": "Victoria’s Secret",
+    "artist": "Jax",
+    "cover": "https://charts-static.billboard.com/img/2022/07/jax-6vn-victoriassecret-745-180x180.jpg",
+    "position": {
+      "positionLastWeek": 58,
+      "peakPosition": 35,
+      "weeksOnChart": 14
+    },
+    "length": 176
+  },
+  {
+    "rank": 57,
+    "title": "Son Of A Sinner",
+    "artist": "Jelly Roll",
+    "cover": "https://charts-static.billboard.com/img/2021/10/jelly-roll-54d-son-of-a-sinner-f0f-180x180.jpg",
+    "position": {
+      "positionLastWeek": 59,
+      "peakPosition": 31,
+      "weeksOnChart": 18
+    },
+    "length": 232
+  },
+  {
+    "rank": 58,
+    "title": "What My World Spins Around",
+    "artist": "Jordan Davis",
+    "cover": "https://charts-static.billboard.com/img/2022/06/jordan-davis-8bp-what-my-world-spins-around-3ix-180x180.jpg",
+    "position": {
+      "positionLastWeek": 62,
+      "peakPosition": 41,
+      "weeksOnChart": 12
+    },
+    "length": 186
+  },
+  {
+    "rank": 59,
+    "title": "Would've, Could've, Should've",
+    "artist": "Taylor Swift",
+    "cover": "https://charts-static.billboard.com/img/2006/07/taylor-swift-824-180x180.jpg",
+    "position": {
+      "positionLastWeek": 20,
+      "peakPosition": 20,
+      "weeksOnChart": 2
+    },
+    "length": 260
+  },
+  {
+    "rank": 60,
+    "title": "Star Walkin' (League Of Legends Worlds Anthem)",
+    "artist": "Lil Nas X",
+    "cover": "https://charts-static.billboard.com/img/2022/10/lil-nas-x-qv4-starwalkinleagueoflegendsworldsanthem-hbq-180x180.jpg",
+    "position": {
+      "positionLastWeek": 60,
+      "peakPosition": 32,
+      "weeksOnChart": 6
+    },
+    "length": 210
+  },
+  {
+    "rank": 61,
+    "title": "Heyy",
+    "artist": "Lil Baby",
+    "cover": "https://charts-static.billboard.com/img/2017/11/lilbaby-kyx-180x180.jpg",
+    "position": {
+      "positionLastWeek": 55,
+      "peakPosition": 21,
+      "weeksOnChart": 4
+    },
+    "length": 192
+  },
+  {
+    "rank": 62,
+    "title": "Music For A Sushi Restaurant",
+    "artist": "Harry Styles",
+    "cover": "https://charts-static.billboard.com/img/2017/04/harry-styles-6jk-180x180.jpg",
+    "position": {
+      "positionLastWeek": 72,
+      "peakPosition": 8,
+      "weeksOnChart": 16
+    },
+    "length": 193
+  },
+  {
+    "rank": 63,
+    "title": "Made You Look",
+    "artist": "Meghan Trainor",
+    "cover": "https://charts-static.billboard.com/img/2014/07/meghan-trainor-3k0-180x180.jpg",
+    "position": {
+      "positionLastWeek": 95,
+      "peakPosition": 63,
+      "weeksOnChart": 2
+    },
+    "length": 134
+  },
+  {
+    "rank": 64,
+    "title": "Forever",
+    "artist": "Lil Baby Featuring Fridayy",
+    "cover": "https://charts-static.billboard.com/img/2017/11/lilbaby-kyx-180x180.jpg",
+    "position": {
+      "positionLastWeek": 46,
+      "peakPosition": 8,
+      "weeksOnChart": 3
+    },
+    "length": 167
+  },
+  {
+    "rank": 65,
+    "title": "Romantic Homicide",
+    "artist": "d4vd",
+    "cover": "https://charts-static.billboard.com/img/2022/08/d4vd-7p1-romantichomicide-98c-180x180.jpg",
+    "position": {
+      "positionLastWeek": 61,
+      "peakPosition": 33,
+      "weeksOnChart": 9
+    },
+    "length": 132
+  },
+  {
+    "rank": 66,
+    "title": "Don't Come Lookin'",
+    "artist": "Jackson Dean",
+    "cover": "https://charts-static.billboard.com/img/2022/03/jacksondean-mx3-dontcomelookin-8er-180x180.jpg",
+    "position": {
+      "positionLastWeek": 64,
+      "peakPosition": 50,
+      "weeksOnChart": 10
+    },
+    "length": 187
+  },
+  {
+    "rank": 67,
+    "title": "Wishful Drinking",
+    "artist": "Ingrid Andress With Sam Hunt",
+    "cover": "https://charts-static.billboard.com/img/2021/08/ingridandress-eh5-wishfuldrinking-z8o-180x180.jpg",
+    "position": {
+      "positionLastWeek": 68,
+      "peakPosition": 47,
+      "weeksOnChart": 18
+    },
+    "length": 194
+  },
+  {
+    "rank": 68,
+    "title": "Bigger Than The Whole Sky",
+    "artist": "Taylor Swift",
+    "cover": "https://charts-static.billboard.com/img/2006/07/taylor-swift-824-180x180.jpg",
+    "position": {
+      "positionLastWeek": 21,
+      "peakPosition": 21,
+      "weeksOnChart": 2
+    },
+    "length": 218
+  },
+  {
+    "rank": 69,
+    "title": "Free Mind",
+    "artist": "Tems",
+    "cover": "https://charts-static.billboard.com/img/2021/05/tems-67h-180x180.jpg",
+    "position": {
+      "positionLastWeek": 70,
+      "peakPosition": 46,
+      "weeksOnChart": 16
+    },
+    "length": 247
+  },
+  {
+    "rank": 70,
+    "title": "No Se Va",
+    "artist": "Grupo Frontera",
+    "cover": "https://charts-static.billboard.com/img/2022/09/grupofrontera-cdi-noseva-cwa-180x180.jpg",
+    "position": {
+      "positionLastWeek": 69,
+      "peakPosition": 57,
+      "weeksOnChart": 6
+    },
+    "length": 216
+  },
+  {
+    "rank": 71,
+    "title": "The Great War",
+    "artist": "Taylor Swift",
+    "cover": "https://charts-static.billboard.com/img/2006/07/taylor-swift-824-180x180.jpg",
+    "position": {
+      "positionLastWeek": 26,
+      "peakPosition": 26,
+      "weeksOnChart": 2
+    },
+    "length": 240
+  },
+  {
+    "rank": 72,
+    "title": "Billie Eilish.",
+    "artist": "Armani White",
+    "cover": "https://charts-static.billboard.com/img/2022/07/armani-white-000-billie-eilish-5rp-180x180.jpg",
+    "position": {
+      "positionLastWeek": 77,
+      "peakPosition": 58,
+      "weeksOnChart": 8
+    },
+    "length": 99
+  },
+  {
+    "rank": 73,
+    "title": "Paris",
+    "artist": "Taylor Swift",
+    "cover": "https://charts-static.billboard.com/img/2006/07/taylor-swift-824-180x180.jpg",
+    "position": {
+      "positionLastWeek": 32,
+      "peakPosition": 32,
+      "weeksOnChart": 2
+    },
+    "length": 196
+  },
+  {
+    "rank": 74,
+    "title": "Whiskey On You",
+    "artist": "Nate Smith",
+    "cover": "https://charts-static.billboard.com/img/2022/05/nate-smith-ry3-whiskey-on-you-9sh-180x180.jpg",
+    "position": {
+      "positionLastWeek": 76,
+      "peakPosition": 44,
+      "weeksOnChart": 20
+    },
+    "length": 183
+  },
+  {
+    "rank": 75,
+    "title": "All Mine",
+    "artist": "Brent Faiyaz",
+    "cover": "https://charts-static.billboard.com/img/2016/07/brent-faiyaz-cg6-180x180.jpg",
+    "position": {
+      "positionLastWeek": 81,
+      "peakPosition": 42,
+      "weeksOnChart": 13
+    },
+    "length": 216
+  },
+  {
+    "rank": 76,
+    "title": "Wait In The Truck",
+    "artist": "HARDY Featuring Lainey Wilson",
+    "cover": "https://charts-static.billboard.com/img/2022/09/hardy-jul-waitinthetruck-q88-180x180.jpg",
+    "position": {
+      "positionLastWeek": 80,
+      "peakPosition": 54,
+      "weeksOnChart": 9
+    },
+    "length": 277
+  },
+  {
+    "rank": 77,
+    "title": "Monotonia",
+    "artist": "Shakira + Ozuna",
+    "cover": "https://charts-static.billboard.com/img/2022/10/shakira-snl-monotonia-rs9-180x180.jpg",
+    "position": {
+      "positionLastWeek": 65,
+      "peakPosition": 65,
+      "weeksOnChart": 2
+    },
+    "length": 158
+  },
+  {
+    "rank": 78,
+    "title": "Hotel Lobby (Unc And Phew)",
+    "artist": "Quavo & Takeoff",
+    "cover": "https://charts-static.billboard.com/img/2022/06/quavo-bdb-hotellobbyuncandphew-506-180x180.jpg",
+    "position": {
+      "positionLastWeek": null,
+      "peakPosition": 59,
+      "weeksOnChart": 17
+    },
+    "length": 142
+  },
+  {
+    "rank": 79,
+    "title": "High Infidelity",
+    "artist": "Taylor Swift",
+    "cover": "https://charts-static.billboard.com/img/2006/07/taylor-swift-824-180x180.jpg",
+    "position": {
+      "positionLastWeek": 33,
+      "peakPosition": 33,
+      "weeksOnChart": 2
+    },
+    "length": 231
+  },
+  {
+    "rank": 80,
+    "title": "2 Be Loved (Am I Ready)",
+    "artist": "Lizzo",
+    "cover": "https://charts-static.billboard.com/img/2013/11/lizzo-w3u-180x180.jpg",
+    "position": {
+      "positionLastWeek": 79,
+      "peakPosition": 55,
+      "weeksOnChart": 12
+    },
+    "length": 187
+  },
+  {
+    "rank": 81,
+    "title": "Staying Alive",
+    "artist": "DJ Khaled Featuring Drake & Lil Baby",
+    "cover": "https://charts-static.billboard.com/img/2022/08/dj-khaled-2l5-stayingalive-2c6-180x180.jpg",
+    "position": {
+      "positionLastWeek": 74,
+      "peakPosition": 5,
+      "weeksOnChart": 13
+    },
+    "length": 178
+  },
+  {
+    "rank": 82,
+    "title": "Real Spill",
+    "artist": "Lil Baby",
+    "cover": "https://charts-static.billboard.com/img/2017/11/lilbaby-kyx-180x180.jpg",
+    "position": {
+      "positionLastWeek": 63,
+      "peakPosition": 10,
+      "weeksOnChart": 3
+    },
+    "length": 198
+  },
+  {
+    "rank": 83,
+    "title": "Last Last",
+    "artist": "Burna Boy",
+    "cover": "https://charts-static.billboard.com/img/2022/05/burna-boy-8ej-last-last-ld2-180x180.jpg",
+    "position": {
+      "positionLastWeek": 83,
+      "peakPosition": 44,
+      "weeksOnChart": 17
+    },
+    "length": 172
+  },
+  {
+    "rank": 84,
+    "title": "Miss You",
+    "artist": "Oliver Tree & Robin Schulz",
+    "cover": "https://charts-static.billboard.com/img/2022/10/oliver-tree-8zt-missyou-prh-180x180.jpg",
+    "position": {
+      "positionLastWeek": 99,
+      "peakPosition": 84,
+      "weeksOnChart": 2
+    },
+    "length": 206
+  },
+  {
+    "rank": 85,
+    "title": "Never Hating",
+    "artist": "Lil Baby & Young Thug",
+    "cover": "https://charts-static.billboard.com/img/2017/11/lilbaby-kyx-180x180.jpg",
+    "position": {
+      "positionLastWeek": 67,
+      "peakPosition": 19,
+      "weeksOnChart": 3
+    },
+    "length": 160
+  },
+  {
+    "rank": 86,
+    "title": "Glitch",
+    "artist": "Taylor Swift",
+    "cover": "https://charts-static.billboard.com/img/2006/07/taylor-swift-824-180x180.jpg",
+    "position": {
+      "positionLastWeek": 41,
+      "peakPosition": 41,
+      "weeksOnChart": 2
+    },
+    "length": 148
+  },
+  {
+    "rank": 87,
+    "title": "Freestyle",
+    "artist": "Lil Baby",
+    "cover": "https://charts-static.billboard.com/img/2017/11/lilbaby-kyx-180x180.jpg",
+    "position": {
+      "positionLastWeek": 85,
+      "peakPosition": 63,
+      "weeksOnChart": 8
+    },
+    "length": 162
+  },
+  {
+    "rank": 88,
+    "title": "Calm Down",
+    "artist": "Rema & Selena Gomez",
+    "cover": "https://charts-static.billboard.com/img/2022/02/rema-000-calmdown-5vt-180x180.jpg",
+    "position": {
+      "positionLastWeek": 86,
+      "peakPosition": 74,
+      "weeksOnChart": 9
+    },
+    "length": 239
+  },
+  {
+    "rank": 89,
+    "title": "Stand On It",
+    "artist": "Lil Baby",
+    "cover": "https://charts-static.billboard.com/img/2017/11/lilbaby-kyx-180x180.jpg",
+    "position": {
+      "positionLastWeek": 66,
+      "peakPosition": 22,
+      "weeksOnChart": 3
+    },
+    "length": 166
+  },
+  {
+    "rank": 90,
+    "title": "La Bachata",
+    "artist": "Manuel Turizo",
+    "cover": "https://charts-static.billboard.com/img/2022/06/manuel-turizo-eml-la-bachata-fz2-180x180.jpg",
+    "position": {
+      "positionLastWeek": 82,
+      "peakPosition": 67,
+      "weeksOnChart": 11
+    },
+    "length": 162
+  },
+  {
+    "rank": 91,
+    "title": "Gotta Move On",
+    "artist": "Diddy & Bryson Tiller",
+    "cover": "https://charts-static.billboard.com/img/2022/06/diddy-v7r-gotta-move-on-546-180x180.jpg",
+    "position": {
+      "positionLastWeek": 90,
+      "peakPosition": 79,
+      "weeksOnChart": 5
+    },
+    "length": 160
+  },
+  {
+    "rank": 92,
+    "title": "Ain't Safe",
+    "artist": "Trippie Redd & Don Toliver",
+    "cover": "https://charts-static.billboard.com/img/2022/11/trippie-redd-by4-aintsafe-sle-180x180.jpg",
+    "position": {
+      "positionLastWeek": null,
+      "peakPosition": 92,
+      "weeksOnChart": 1
+    },
+    "length": 166
+  },
+  {
+    "rank": 93,
+    "title": "Pick Me Up",
+    "artist": "Gabby Barrett",
+    "cover": "https://charts-static.billboard.com/img/2021/12/gabby-barrett-ait-pick-me-up-ql6-180x180.jpg",
+    "position": {
+      "positionLastWeek": 89,
+      "peakPosition": 69,
+      "weeksOnChart": 14
+    },
+    "length": 169
+  },
+  {
+    "rank": 94,
+    "title": "Betty (Get Money)",
+    "artist": "Yung Gravy",
+    "cover": "https://charts-static.billboard.com/img/2022/07/yunggravy-oae-bettygetmoney-q8e-180x180.jpg",
+    "position": {
+      "positionLastWeek": 78,
+      "peakPosition": 30,
+      "weeksOnChart": 17
+    },
+    "length": 146
+  },
+  {
+    "rank": 95,
+    "title": "Gatubela",
+    "artist": "Karol G x Maldy",
+    "cover": "https://charts-static.billboard.com/img/2022/09/karol-g-tb3-gatubela-mlv-180x180.jpg",
+    "position": {
+      "positionLastWeek": 87,
+      "peakPosition": 37,
+      "weeksOnChart": 10
+    },
+    "length": 209
+  },
+  {
+    "rank": 96,
+    "title": "300 Blackout",
+    "artist": "Kodak Black",
+    "cover": "https://charts-static.billboard.com/img/2016/06/kodak-black-3si-180x180.jpg",
+    "position": {
+      "positionLastWeek": null,
+      "peakPosition": 96,
+      "weeksOnChart": 1
+    },
+    "length": 166
+  },
+  {
+    "rank": 97,
+    "title": "Dear Reader",
+    "artist": "Taylor Swift",
+    "cover": "https://charts-static.billboard.com/img/2006/07/taylor-swift-824-180x180.jpg",
+    "position": {
+      "positionLastWeek": 45,
+      "peakPosition": 45,
+      "weeksOnChart": 2
+    },
+    "length": 225
+  },
+  {
+    "rank": 98,
+    "title": "Country On",
+    "artist": "Luke Bryan",
+    "cover": "https://charts-static.billboard.com/img/2022/07/luke-bryan-3xn-country-on-dkf-180x180.jpg",
+    "position": {
+      "positionLastWeek": 92,
+      "peakPosition": 72,
+      "weeksOnChart": 11
+    },
+    "length": 236
+  },
+  {
+    "rank": 99,
+    "title": "Bzrp Music Sessions, Vol. 52",
+    "artist": "Bizarrap & Quevedo",
+    "cover": "https://charts-static.billboard.com/img/2022/07/bizarrap-rsm-bzrp-music-sessions-vol-52-sh8-180x180.jpg",
+    "position": {
+      "positionLastWeek": null,
+      "peakPosition": 79,
+      "weeksOnChart": 10
+    },
+    "length": 198
+  },
+  {
+    "rank": 100,
+    "title": "Evergreen",
+    "artist": "Omar Apollo",
+    "cover": "https://charts-static.billboard.com/img/2022/09/omarapollo-pyf-evergreen-tc7-180x180.jpg",
+    "position": {
+      "positionLastWeek": 88,
+      "peakPosition": 51,
+      "weeksOnChart": 7
+    },
+    "length": 216
+  }
+]
