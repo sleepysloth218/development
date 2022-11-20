@@ -7,9 +7,11 @@ https://sleepysloth218.github.io/development/
 The goal of this application is to be able to sort and filter through the current most popular songs as per the Billboard Top 100 list, and select certain songs for a playlist.
 
 ### Usability Principles Considered
-- I wanted there to be a clear hierarchy by using different headings and by drawing focus to the center where the main content is.
-- I tried to make interactive elements stand out by using a contrasting color.
-- I used similar styles for my two different components that render the songs while still making them distinct from one another so users can understand that they are different but related items.
+- Learnability:
+  - I tried to make interactive elements stand out by using a contrasting color.
+  - I used similar styles for my two different components that render the songs while still making them distinct from one another so users can understand that they are different but related items.
+- Efficiency:
+  - There is a clear hierarchy to navigate the page and find what you're looking for accomplished by using different headings and by drawing focus to the center where the main content is.
 
 ### Organization of Components
 `App.js` is made up of 3 main sections:
